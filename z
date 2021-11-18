@@ -1,0 +1,6 @@
+for line break, add '\' or two blank spaces at the end of the line.
+the more '#' used in the header tag the smaller the header.
+you can turn an URL into link by using '<' and '>' or '[Link](www.qwe' 
+Images are identically to be created as links, but start with an '!'
+remember to create an markup 'id' by wrapping an id tag in brackets afterwards then place the link inside '[id]:' use linebreak before attaching any id to apply code format and add " example license"
+To create a code block use 4 spaces, or place 3 ``` on the line above and below the code
