@@ -1,3 +1,7 @@
+/etc/httpd/extra/httpd-vhosts.conf:
+  file.managed:
+    - source: salt://webserver/httpd-vhosts.conf
+
 apache:
   pkg.installed: []
   service.running:
